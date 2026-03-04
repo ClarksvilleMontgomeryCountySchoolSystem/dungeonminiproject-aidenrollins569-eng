@@ -1,5 +1,5 @@
-guard_awake = True
-if guard_awake:
+guard_awake = False
+if not guard_awake:
     outcome = "shadow: Attack and run"
 else:
     outcome = "doom: Doom and despair"

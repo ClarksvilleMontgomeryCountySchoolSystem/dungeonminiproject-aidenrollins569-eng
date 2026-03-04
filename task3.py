@@ -1,6 +1,6 @@
 guard_awake = False
 if not guard_awake:
-    outcome = "shadow: Attack and run"
+    outcome = "Shadow: Attack and run"
 else:
-    outcome = "doom: Doom and despair"
+    outcome = "Doom: Doom and despair"
 print(outcome)
